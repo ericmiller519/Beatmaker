@@ -1,0 +1,1 @@
+This is a basic apps using Java Script and HTML.
